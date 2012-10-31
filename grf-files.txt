@@ -1,0 +1,7 @@
+//-----------------------------------------
+// GRF List
+//-----------------------------------------
+// grf: C:\path\to\RO\data.grf
+// You may add more in this format
+grf: C:\Users\Westin\Documents\ragnarok\patch\data.grf
+grf: C:\Users\Westin\Documents\ragnarok\athenaro\athena.grf

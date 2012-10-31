@@ -1,0 +1,903 @@
+10/23/2010 17:19:39 - Spike[2000002]: @blvl 999
+10/23/2010 17:26:10 - Spike[2000002]: @blvl 999
+10/23/2010 17:26:14 - Spike[2000002]: @blvl 999
+10/23/2010 17:26:30 - Spike[2000002]: @zeny 2000000
+10/23/2010 17:26:33 - Spike[2000002]: @zeny 20000000
+10/23/2010 17:26:35 - Spike[2000002]: @zeny 2000000000
+10/23/2010 17:26:37 - Spike[2000002]: @zeny 2000000000
+10/23/2010 17:26:45 - Spike[2000002]: @zeny -2000000000
+10/23/2010 17:27:05 - Spike[2000002]: @gstorage
+10/23/2010 17:54:44 - Spike[2000002]: @blvl -1
+10/23/2010 17:54:46 - Spike[2000002]: @blvl 1
+10/23/2010 17:56:07 - Spike[2000002]: @blvl 98
+10/23/2010 17:56:10 - Spike[2000002]: @blvl 1
+10/23/2010 17:56:20 - Spike[2000002]: @zeny 200000000
+10/23/2010 17:56:23 - Spike[2000002]: @zeny 2000000000
+10/23/2010 17:56:28 - Spike[2000002]: @zeny -200000000
+10/23/2010 17:56:32 - Spike[2000002]: @zeny -20000000000
+12/22/2010 01:00:43 - Zeeh[2000000]: @allskill
+12/22/2010 01:17:36 - Zeeh[2000000]: @lvup 99
+12/22/2010 01:17:49 - Zeeh[2000000]: @hairstyle 22
+12/22/2010 01:17:55 - Zeeh[2000000]: @heal
+12/22/2010 01:20:30 - [D-AD] Westin[2000001]: @item 5755
+12/22/2010 01:20:32 - [D-AD] Westin[2000001]: @item 5751
+12/22/2010 01:20:33 - [D-AD] Westin[2000001]: @item 5700
+12/22/2010 01:20:35 - [D-AD] Westin[2000001]: @item 5733
+12/22/2010 01:20:36 - [D-AD] Westin[2000001]: @item 5788
+12/22/2010 01:20:39 - [D-AD] Westin[2000001]: @item 5599
+12/22/2010 01:20:40 - [D-AD] Westin[2000001]: @item 5555
+12/22/2010 01:20:42 - [D-AD] Westin[2000001]: @item 5553
+12/22/2010 01:20:44 - [D-AD] Westin[2000001]: @item 5544
+12/22/2010 01:20:45 - [D-AD] Westin[2000001]: @item 5542
+12/22/2010 01:20:47 - [D-AD] Westin[2000001]: @item 5554
+12/22/2010 01:20:48 - [D-AD] Westin[2000001]: @item 5556
+12/22/2010 01:20:49 - [D-AD] Westin[2000001]: @item 5550
+12/22/2010 01:20:50 - [D-AD] Westin[2000001]: @item 5551
+12/22/2010 01:21:01 - [D-AD] Westin[2000001]: @item 5500
+12/22/2010 01:21:03 - [D-AD] Westin[2000001]: @item 5522
+12/22/2010 01:21:05 - [D-AD] Westin[2000001]: @item 5533
+12/22/2010 01:21:06 - [D-AD] Westin[2000001]: @item 5525
+12/22/2010 01:21:08 - [D-AD] Westin[2000001]: @item 5577
+12/22/2010 01:21:10 - [D-AD] Westin[2000001]: @item 5559
+12/22/2010 01:21:11 - [D-AD] Westin[2000001]: @item 5560
+12/22/2010 01:21:12 - [D-AD] Westin[2000001]: @item 5562
+12/22/2010 01:21:14 - [D-AD] Westin[2000001]: @item 5499
+12/22/2010 01:21:15 - [D-AD] Westin[2000001]: @item 5498
+12/22/2010 01:21:16 - [D-AD] Westin[2000001]: @item 5495
+12/22/2010 01:21:17 - [D-AD] Westin[2000001]: @item 5493
+12/22/2010 01:21:18 - [D-AD] Westin[2000001]: @item 5492
+12/22/2010 01:21:20 - [D-AD] Westin[2000001]: @item 5490
+12/22/2010 01:21:21 - [D-AD] Westin[2000001]: @item 5497
+12/22/2010 01:21:22 - [D-AD] Westin[2000001]: @item 5496
+12/22/2010 01:21:30 - [D-AD] Westin[2000001]: @job 4013
+12/22/2010 01:21:37 - [D-AD] Westin[2000001]: @idsearch pipe
+12/22/2010 01:21:40 - [D-AD] Westin[2000001]: @item 5377
+12/22/2010 01:27:23 - [D-AD] Westin[2000001]: @heal
+12/22/2010 01:38:40 - [D-AD] Westin[2000001]: @reloadbattleconf
+12/22/2010 01:40:15 - [D-AD] Westin[2000001]: @reloadbattleconf
+12/22/2010 01:40:55 - [D-AD] Westin[2000001]: @reloadbattleconf
+12/22/2010 01:41:20 - [D-AD] Westin[2000001]: @reloadbattleconf
+12/22/2010 02:00:14 - [AD-D] Westin[2000001]: @loadnpc npc/scripts_seventeen.conf
+12/22/2010 02:00:46 - [AD-D] Westin[2000001]: @loadnpc npc/seventeen/trocador.txt
+12/22/2010 02:04:24 - [AD-D] Westin[2000001]: @loadnpc npc/seventeen/SVRO.txt
+12/22/2010 02:04:51 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:06:05 - [AD-D] Westin[2000001]: /kick Assistente VIP (899)
+12/22/2010 02:06:14 - [AD-D] Westin[2000001]: @speed 1
+12/22/2010 02:06:40 - [AD-D] Westin[2000001]: @loadnpc npc/seventeen/trocador.txt
+12/22/2010 02:07:28 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:07:43 - [AD-D] Westin[2000001]: @cash 3
+12/22/2010 02:10:18 - [AD-D] Westin[2000001]: @cash 3000
+12/22/2010 02:15:06 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/classes/mestra_classe.txt
+12/22/2010 02:15:13 - [AD-D] Westin[2000001]: @loadnpc 
+12/22/2010 02:15:15 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/classes/resetadora.txt
+12/22/2010 02:16:12 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/platina/habilidades_platina.txt
+12/22/2010 02:16:18 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/curas/curandeira.txt
+12/22/2010 02:16:27 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/teletransportadora.txt
+12/22/2010 02:16:33 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/estilista.txt
+12/22/2010 02:16:42 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/garota_negociante.txt
+12/22/2010 02:16:48 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/removedora.txt
+12/22/2010 02:17:06 - [AD-D] Westin[2000001]: @loadnpc npc/personalizado/bancos/banco_kafra.txt
+12/22/2010 02:17:45 - [AD-D] Westin[2000001]: @warp prontera,154,187
+12/22/2010 02:18:48 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:20:39 - [AD-D] Westin[2000001]: /kick Hrist#p2-1 (722)
+12/22/2010 02:20:43 - [AD-D] Westin[2000001]: /kick Gondul#p5-1 (722)
+12/22/2010 02:20:47 - [AD-D] Westin[2000001]: /kick Skoegul#p4-1 (722)
+12/22/2010 02:20:51 - [AD-D] Westin[2000001]: /kick Brynhildr#p3-1 (722)
+12/22/2010 02:21:26 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:22:14 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:22:45 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:23:20 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 02:23:30 - [AD-D] Westin[2000001]: /kick Hrist#p2-1 (722)
+12/22/2010 02:23:32 - [AD-D] Westin[2000001]: /kick Gondul#p5-1 (722)
+12/22/2010 02:23:36 - [AD-D] Westin[2000001]: /kick Skoegul#p4-1 (722)
+12/22/2010 02:23:40 - [AD-D] Westin[2000001]: /kick Brynhildr#p3-1 (722)
+12/22/2010 11:14:17 - [AD-D] Westin[2000001]: @loadnpc npc/seventeen/buildsaver.txt
+12/22/2010 11:14:46 - [AD-D] Westin[2000001]: @zeny 100000
+12/22/2010 11:17:17 - [AD-D] Westin[2000001]: @loadnpc npc/seventeen/senha.txt
+12/22/2010 11:18:15 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 11:20:47 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 11:21:10 - [AD-D] Westin[2000001]: @adjgmlvl -1 [AD-D] Westin
+12/22/2010 11:21:10 - [AD-D] Westin[2000001]: @option 2 0 0
+12/22/2010 11:21:18 - [AD-D] Westin[2000001]: @adjgmlvl 99 [AD-D] Westin
+12/22/2010 11:21:18 - [AD-D] Westin[2000001]: @option 0 0 0
+12/22/2010 11:21:26 - [AD-D] Westin[2000001]: @job 4012
+12/22/2010 11:21:29 - [AD-D] Westin[2000001]: @allskill
+12/22/2010 11:21:31 - [AD-D] Westin[2000001]: @allskill
+12/22/2010 11:21:39 - [AD-D] Westin[2000001]: @adjgmlvl -1 [AD-D] Westin
+12/22/2010 11:21:39 - [AD-D] Westin[2000001]: @option 2 0 0
+12/22/2010 11:21:46 - [AD-D] Westin[2000001]: @adjgmlvl 99 [AD-D] Westin
+12/22/2010 11:21:47 - [AD-D] Westin[2000001]: @option 0 0 0
+12/22/2010 11:24:12 - [AD-D] Westin[2000001]: @warp 2008rwc_04
+12/22/2010 11:24:23 - [AD-D] Westin[2000001]: @warp bossnia_04
+12/22/2010 11:24:28 - [AD-D] Westin[2000001]: @warp bossnia_01
+12/22/2010 11:24:50 - [AD-D] Westin[2000001]: @warp sec_pri
+12/22/2010 11:26:14 - [AD-D] Westin[2000001]: @reloadscript
+12/22/2010 11:26:22 - [AD-D] Westin[2000001]: @adjgmlvl -1 [AD-D] Westin
+12/22/2010 11:26:22 - [AD-D] Westin[2000001]: @mute 99999
+12/22/2010 11:29:25 - [AD-D] Westin[2000001]: @adjgmlvl -1 [AD-D] Westin
+12/22/2010 11:29:25 - [AD-D] Westin[2000001]: @mute 99999
+12/22/2010 11:30:13 - teste[2000001]: @adjgmlvl -1 teste
+12/22/2010 11:30:13 - teste[2000001]: @mute 99999
+12/22/2010 11:32:07 - [AD-D] Westin[2000001]: /kick Trocador de senha (121)
+12/22/2010 11:37:12 - teste[2000001]: @loadnpc npc/seventeen/devilsquare.txt
+
+12/22/2010 11:37:17 - teste[2000001]: @loadnpc npc/seventeen/devilsquare.txt
+12/22/2010 11:39:32 - teste[2000001]: @loadnpc npc/seventeen/motd.txt
+12/22/2010 11:42:29 - teste[2000001]: @loadnpc npc/seventeen/ratescontrol.txt
+12/22/2010 11:42:33 - teste[2000001]: @hide
+12/22/2010 11:44:39 - teste[2000001]: @loadnpc npc/seventeen/rankwoe.txt
+12/22/2010 11:46:34 - teste[2000001]: @reloadscript
+12/22/2010 11:46:42 - teste[2000001]: @agitstart
+12/22/2010 11:46:45 - teste[2000001]: @warp prt_cas01
+12/22/2010 11:46:47 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:46:50 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:46:54 - teste[2000001]: @guild teste
+12/22/2010 11:46:58 - teste[2000001]: @guildlvup 50
+12/22/2010 11:47:06 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:07 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:08 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:09 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:10 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:11 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:13 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:14 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:17 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:20 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:21 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:22 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:24 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:25 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:26 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:47:28 - teste[2000001]: @speed 1
+12/22/2010 11:47:47 - teste[2000001]: @str 99999
+12/22/2010 11:47:50 - teste[2000001]: @dex 9999
+12/22/2010 11:48:20 - teste[2000001]: @agitend
+12/22/2010 11:51:09 - teste[2000001]: @agitstart
+12/22/2010 11:51:53 - teste[2000001]: @warp prtg_cas01
+12/22/2010 11:51:57 - teste[2000001]: @speed 1
+12/22/2010 11:52:38 - teste[2000001]: @loadnpc npc/guild/prtg_cas02.txt
+12/22/2010 11:52:41 - teste[2000001]: @warp prtg_cas02
+12/22/2010 11:52:47 - teste[2000001]: @warp prtg_cas02
+12/22/2010 11:52:48 - teste[2000001]: @warp prtg_cas02
+12/22/2010 11:53:08 - teste[2000001]: @reloadscript
+12/22/2010 12:01:52 - teste[2000001]: @loadnpc npc/seventeen/pvp.txt
+12/22/2010 12:02:37 - teste[2000001]: @hide
+12/22/2010 12:02:41 - teste[2000001]: @allskill
+12/22/2010 12:31:28 - teste[2000001]: @hide
+12/22/2010 12:42:01 - JEAN[2000002]: @hide
+12/22/2010 12:46:14 - JEAN[2000002]: @allstats
+12/22/2010 12:46:20 - teste[2000001]: @loadnpc npc/seventeen/cashshop.txt
+12/22/2010 12:46:23 - teste[2000001]: /kick CashItens (45)
+12/22/2010 12:46:42 - JEAN[2000002]: @jobchange 38
+12/22/2010 12:46:45 - teste[2000001]: @loadnpc npc/seventeen/cashshop.txt
+12/22/2010 12:46:48 - JEAN[2000002]: @jobchange 4038
+12/22/2010 12:46:54 - JEAN[2000002]: @jobchange 4138
+12/22/2010 12:47:19 - teste[2000001]: /kick CashItens (55)
+12/22/2010 12:47:27 - teste[2000001]: @loadnpc npc/seventeen/cashshop.txt
+12/22/2010 12:48:57 - JEAN[2000002]: @cash 50
+12/22/2010 12:50:08 - teste[2000001]: #cash "JEAN" 10
+12/22/2010 12:50:48 - teste[2000001]: /kick Assistente VIP (899)
+12/22/2010 12:51:00 - JEAN[2000002]: @job 45
+12/22/2010 12:51:09 - JEAN[2000002]: @job 45
+12/22/2010 12:51:20 - JEAN[2000002]: @jobchange 45
+12/22/2010 12:51:27 - JEAN[2000002]: @jobchange 4046
+12/22/2010 12:51:33 - JEAN[2000002]: @jobchange 4070
+12/22/2010 12:51:35 - teste[2000001]: @loadnpc npc/seventeen/trocador.txt
+12/22/2010 12:51:38 - JEAN[2000002]: @jobchange 4060
+12/22/2010 12:51:42 - JEAN[2000002]: @jobchange 4050
+12/22/2010 12:51:47 - JEAN[2000002]: @jobchange 40225
+12/22/2010 12:51:55 - JEAN[2000002]: @jobchange 4025
+12/22/2010 12:53:42 - JEAN[2000002]: @jobchange 4048
+12/22/2010 12:53:49 - JEAN[2000002]: @jobchange 4049
+12/22/2010 12:53:53 - JEAN[2000002]: @jobchange 4050
+12/22/2010 12:53:57 - JEAN[2000002]: @jobchange 4150
+12/22/2010 12:54:59 - JEAN[2000002]: @jobchange 4015
+12/22/2010 12:57:40 - JEAN[2000002]: @lvup 99
+12/22/2010 12:58:04 - teste[2000001]: /kick Resetadora (75)
+12/22/2010 12:58:06 - JEAN[2000002]: @heal
+12/22/2010 12:58:59 - teste[2000001]: @loadnpc npc/personalizado/classes/resetadora.txt
+12/22/2010 13:00:27 - teste[2000001]: /kick Resetadora (75)
+12/22/2010 13:00:30 - teste[2000001]: @loadnpc npc/personalizado/classes/resetadora.txt
+12/22/2010 13:05:13 - JEAN[2000002]: /b Capiche?
+12/22/2010 13:06:09 - teste[2000001]: @loadnpc  npc/seventeen/sala_vip/torpedo.txt
+12/22/2010 13:07:21 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/sex.txt
+12/22/2010 13:07:27 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/refiner.txt
+12/22/2010 13:07:33 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/buffer.txt
+12/22/2010 13:08:05 - teste[2000001]: @warp sec_in02.gat,32,176
+12/22/2010 13:08:14 - teste[2000001]: @recallall
+12/22/2010 13:08:19 - teste[2000001]: @refine 0 10
+12/22/2010 13:08:23 - teste[2000001]: @refine 0 10
+12/22/2010 13:08:23 - teste[2000001]: /kick Refiner ViP (808)
+12/22/2010 13:08:53 - teste[2000001]: /kick Buffer & Healer (920)
+12/22/2010 13:09:35 - teste[2000001]: @alive
+12/22/2010 13:09:42 - teste[2000001]: @nuke JEAN
+12/22/2010 13:09:46 - JEAN[2000002]: @alive
+12/22/2010 13:09:53 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/buffer.txt
+12/22/2010 13:13:00 - teste[2000001]: /kick Buffer & Healer (920)
+12/22/2010 13:13:10 - JEAN[2000002]: @joblvl 99
+12/22/2010 13:13:12 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/buffer.txt
+12/22/2010 13:13:18 - teste[2000001]: @alive
+12/22/2010 13:14:29 - JEAN[2000002]: @allskill
+12/22/2010 13:16:40 - JEAN[2000002]: @monster Baú
+12/22/2010 13:16:44 - teste[2000001]: @allskill
+12/22/2010 13:16:47 - JEAN[2000002]: @monster Emperium
+12/22/2010 13:19:05 - teste[2000001]: /kick Curandeira#hG1-1 (91)
+12/22/2010 13:19:21 - teste[2000001]: @loadnpc npc/personalizado/curas/curandeira.txt
+12/22/2010 13:19:39 - teste[2000001]: @monster thanatos
+12/22/2010 13:19:47 - teste[2000001]: /kick Memória de Thanatos (1708)
+12/22/2010 13:20:12 - teste[2000001]: /kick Curandeira#hG1-1 (91)
+12/22/2010 13:20:16 - teste[2000001]: @loadnpc npc/personalizado/curas/curandeira.txt
+12/22/2010 13:22:09 - JEAN[2000002]: @recall testecura
+12/22/2010 13:22:40 - JEAN[2000002]: /b nao seria bom tirar o angelos?
+12/22/2010 13:22:53 - teste[2000001]: @hide
+12/22/2010 13:22:57 - teste[2000001]: /kick CashItens (55)
+12/22/2010 13:27:07 - teste[2000001]: @idsearch chifre
+12/22/2010 13:38:29 - JEAN[2000002]: @dye
+12/22/2010 13:38:35 - JEAN[2000002]: @dye 11
+12/22/2010 13:38:39 - JEAN[2000002]: @dye 8
+12/22/2010 20:23:55 - teste[2000001]: @hide
+12/22/2010 20:35:28 - teste[2000001]: @hide
+12/22/2010 20:36:26 - teste[2000001]: @speed 1
+12/22/2010 21:09:03 - teste[2000001]: @hide
+12/22/2010 21:11:37 - teste[2000001]: @hide
+12/22/2010 21:13:00 - teste[2000001]: @warp avalon
+12/22/2010 21:13:12 - teste[2000001]: @warp avalon
+12/22/2010 21:13:13 - teste[2000001]: @warp avalon
+12/22/2010 21:13:14 - teste[2000001]: @warp avalon
+12/22/2010 21:13:16 - teste[2000001]: @warp avalon
+12/22/2010 21:13:17 - teste[2000001]: @warp avalon
+12/22/2010 21:14:36 - teste[2000001]: @warp wildheart
+12/22/2010 21:14:42 - teste[2000001]: @warp wildheart
+12/22/2010 21:14:47 - teste[2000001]: @warp wildheart
+12/22/2010 21:14:49 - teste[2000001]: @warp wildheart
+12/22/2010 21:14:52 - teste[2000001]: @warp wildheart
+12/22/2010 21:15:00 - teste[2000001]: @warp camptre
+12/22/2010 21:30:42 - JEAN[2000002]: @hide
+12/22/2010 21:40:48 - JEAN[2000002]: @warp spore
+12/22/2010 21:41:01 - JEAN[2000002]: @warp avalon
+12/22/2010 21:41:44 - JEAN[2000002]: @warp avalon
+12/22/2010 21:41:46 - JEAN[2000002]: @warp avalon
+12/22/2010 21:42:00 - JEAN[2000002]: @warp avalon
+12/22/2010 21:42:55 - JEAN[2000002]: @warp gh_map
+12/22/2010 21:43:41 - JEAN[2000002]: @warp crypt
+12/22/2010 21:43:55 - JEAN[2000002]: @monster Pupa
+12/22/2010 21:47:38 - JEAN[2000002]: /b zika mesmo
+12/28/2010 21:03:15 - teste[2000001]: @hide
+12/28/2010 21:03:59 - teste[2000001]: /kick CashItens (55)
+12/28/2010 21:25:16 - teste[2000001]: @loadnpc npc/seventeen/rastreador.txt
+12/28/2010 21:27:19 - teste[2000001]: @loadnpc npc/seventeen/rastreador.txt
+12/28/2010 21:28:54 - teste[2000001]: @unloadnpc Porteiro VIP
+12/28/2010 21:28:54 - teste[2000001]: @unloadnpc Porteiro VIP
+12/28/2010 21:34:54 - teste[2000001]: @hide
+12/28/2010 21:35:31 - teste[2000001]: /kick Rastreador (723)
+12/28/2010 21:36:21 - teste[2000001]: @loadnpc npc/seventeen/rastreador.txt
+12/28/2010 21:57:42 - teste[2000001]: @hide
+12/28/2010 22:02:06 - teste[2000001]: @loadnpc npc/seventeen/rastreador.txt
+12/28/2010 22:05:20 - teste[2000001]: @hide
+12/28/2010 22:05:55 - teste[2000001]: @recallall
+12/28/2010 22:06:40 - teste[2000001]: @load npc/seventeen/rastreador.txt
+12/28/2010 22:06:48 - teste[2000001]: @load npc/seventeen/rastreador.txt
+12/28/2010 22:06:59 - teste[2000001]: @hide
+12/28/2010 22:07:02 - teste[2000001]: @load npc/seventeen/rastreador.txt
+12/28/2010 22:10:06 - teste[2000001]: @load npc/seventeen/rastreador.txt
+12/28/2010 22:10:56 - teste[2000001]: @hide
+12/28/2010 22:13:05 - teste[2000001]: @loadnpc npc/seventeen/rastreador.txt
+12/28/2010 22:13:37 - teste[2000001]: @reloadscript
+12/28/2010 22:13:48 - teste[2000001]: @recallall
+12/28/2010 22:15:22 - teste[2000001]: @reloadscript
+12/28/2010 22:28:32 - teste[2000001]: @reloadscript
+12/28/2010 22:29:38 - teste[2000001]: @reloadscript
+12/28/2010 22:30:22 - teste[2000001]: @recallall
+12/28/2010 22:32:25 - teste[2000001]: @reloadscript
+12/28/2010 22:32:35 - teste[2000001]: @recallall
+12/28/2010 22:33:03 - teste[2000001]: @recallall
+12/28/2010 22:34:01 - teste[2000001]: @reloadscript
+12/28/2010 22:34:28 - teste[2000001]: @recallall
+12/28/2010 22:35:27 - teste[2000001]: @reloadscript
+12/28/2010 22:36:01 - teste[2000001]: @reloadscript
+12/28/2010 22:36:01 - teste[2000001]: @recallall
+12/28/2010 22:36:01 - teste[2000001]: @recallall
+12/28/2010 22:38:10 - teste[2000001]: @reloaditemdb
+12/28/2010 22:38:12 - teste[2000001]: @item 18200
+12/28/2010 22:38:49 - teste[2000001]: @reloaditemdb
+12/28/2010 22:38:50 - teste[2000001]: @item 18200
+12/28/2010 22:38:52 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:39:17 - teste[2000001]: @item 18200
+12/28/2010 22:39:19 - teste[2000001]: @reloaditemdb
+12/28/2010 22:39:21 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:39:23 - teste[2000001]: @reloaditemdb
+12/28/2010 22:39:26 - teste[2000001]: @item 18200
+12/28/2010 22:39:27 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:39:41 - teste[2000001]: @reloaditemdb
+12/28/2010 22:39:42 - teste[2000001]: @item 18200
+12/28/2010 22:39:44 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:40:00 - teste[2000001]: @reloaditemdb
+12/28/2010 22:40:01 - teste[2000001]: @item 18200
+12/28/2010 22:40:02 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:40:30 - teste[2000001]: @reloaditemdb
+12/28/2010 22:40:32 - teste[2000001]: @item 18200
+12/28/2010 22:40:35 - teste[2000001]: @item 18200
+12/28/2010 22:40:36 - teste[2000001]: @item 18200
+12/28/2010 22:40:36 - teste[2000001]: @item 18200
+12/28/2010 22:40:37 - teste[2000001]: @item 18200
+12/28/2010 22:40:38 - teste[2000001]: @item 18200
+12/28/2010 22:40:49 - teste[2000001]: @reloaditemdb
+12/28/2010 22:40:51 - teste[2000001]: @item 18200
+12/28/2010 22:40:53 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:40:53 - teste[2000001]: @item 18200
+12/28/2010 22:40:56 - teste[2000001]: @item 18200
+12/28/2010 22:40:58 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:40:58 - teste[2000001]: @item 18200
+12/28/2010 22:40:59 - teste[2000001]: @warp sec_in01,169,173
+12/28/2010 22:40:59 - teste[2000001]: @item 18200
+12/28/2010 22:42:17 - teste[2000001]: @reloaditemdb
+12/28/2010 22:42:25 - teste[2000001]: @item 18200
+12/28/2010 22:43:14 - teste[2000001]: @hide
+12/28/2010 22:44:15 - teste[2000001]: @item 12261
+12/28/2010 22:44:25 - teste[2000001]: @gstorage
+12/28/2010 22:45:27 - teste[2000001]: #str "problema" 999
+12/28/2010 22:47:26 - teste[2000001]: @hide
+12/28/2010 22:47:29 - teste[2000001]: @item 18200
+12/31/2010 22:00:24 - teste[2000001]: @hide
+12/31/2010 22:00:41 - teste[2000001]: @monster ignore
+12/31/2010 22:00:44 - teste[2000001]: @monsterignore
+12/31/2010 22:00:46 - teste[2000001]: @monster 1502
+12/31/2010 22:00:53 - teste[2000001]: @monster 1502
+12/31/2010 22:00:55 - teste[2000001]: /kick Bring it on (1502)
+12/31/2010 22:01:12 - teste[2000001]: @identify
+12/31/2010 22:01:13 - teste[2000001]: @identify
+12/31/2010 22:01:18 - teste[2000001]: @identify
+12/31/2010 22:01:28 - teste[2000001]: @identify
+12/31/2010 22:01:29 - teste[2000001]: @identify
+12/31/2010 22:01:34 - teste[2000001]: @identify
+12/31/2010 22:01:35 - teste[2000001]: @identify
+12/31/2010 22:01:38 - teste[2000001]: @identify
+12/31/2010 22:02:18 - teste[2000001]: @jobchange
+12/31/2010 22:02:34 - teste[2000001]: @jobchange 4001
+12/31/2010 22:02:52 - teste[2000001]: @jobchange 4045
+12/31/2010 22:03:01 - teste[2000001]: @jobchange 4016
+12/31/2010 22:03:16 - teste[2000001]: @hairstyle 22
+12/31/2010 22:03:20 - teste[2000001]: @lvup 80
+01/04/2011 16:50:30 - teste[2000001]: @hide
+01/04/2011 16:50:53 - teste[2000001]: @warp salavip
+01/04/2011 16:51:00 - teste[2000001]: @warp salavip
+01/04/2011 16:51:01 - teste[2000001]: @warp salavip
+01/04/2011 16:53:52 - teste[2000001]: @reloadscript
+01/04/2011 17:09:05 - teste[2000001]: /kick Buffer & Healer (920)
+01/04/2011 17:09:09 - teste[2000001]: /kick Torpedo (874)
+01/04/2011 17:09:17 - teste[2000001]: @warp salavip 15 118
+01/04/2011 17:10:17 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/buffer.txt
+01/04/2011 17:10:25 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/sex.txt
+01/04/2011 17:10:31 - teste[2000001]: @loadnpc npc/seventeen/sala_vip/torpedo.txt
+01/04/2011 17:21:47 - teste[2000001]: @loadnpc npc/seventeen/bufermap.txt
+01/04/2011 17:22:37 - teste[2000001]: @reloadscript
+01/04/2011 17:23:17 - teste[2000001]: @warp salavip 15 118
+01/05/2011 15:58:48 - teste[2000001]: @hide
+01/05/2011 16:01:08 - teste[2000001]: @hide
+01/05/2011 16:11:54 - teste[2000001]: @hide
+01/05/2011 16:24:22 - teste[2000001]: @hide
+01/05/2011 16:32:55 - teste[2000001]: @reloaditemdb
+01/05/2011 16:33:49 - teste[2000001]: @item 15051
+01/05/2011 16:33:52 - teste[2000001]: @item 15052
+01/05/2011 16:33:53 - teste[2000001]: @item 15053
+01/05/2011 16:33:54 - teste[2000001]: @item 15054
+01/05/2011 16:33:56 - teste[2000001]: @item 15055
+01/05/2011 16:33:57 - teste[2000001]: @item 15056
+01/05/2011 16:33:59 - teste[2000001]: @item 15057
+01/05/2011 16:34:04 - teste[2000001]: @item 20000
+01/05/2011 16:34:06 - teste[2000001]: @item 20001
+01/05/2011 16:34:07 - teste[2000001]: @item 20002
+01/05/2011 16:34:08 - teste[2000001]: @item 20003
+01/05/2011 16:34:09 - teste[2000001]: @item 20004
+01/05/2011 16:34:10 - teste[2000001]: @item 20005
+01/05/2011 16:34:11 - teste[2000001]: @item 20006
+01/05/2011 16:34:13 - teste[2000001]: @item 20007
+01/05/2011 16:34:14 - teste[2000001]: @item 200088
+01/05/2011 16:34:16 - teste[2000001]: @item 200089
+01/05/2011 16:34:21 - teste[2000001]: @item 20009
+01/05/2011 16:34:23 - teste[2000001]: @item 20010
+01/05/2011 16:34:29 - teste[2000001]: @item 20016
+01/05/2011 16:34:32 - teste[2000001]: @item 20018
+01/05/2011 16:34:33 - teste[2000001]: @item 20019
+01/05/2011 16:34:36 - teste[2000001]: @item 20020
+01/05/2011 16:34:37 - teste[2000001]: @item 20021
+01/05/2011 16:34:38 - teste[2000001]: @item 200232
+01/05/2011 16:34:39 - teste[2000001]: @item 20022
+01/05/2011 16:34:40 - teste[2000001]: @item 20023
+01/05/2011 16:34:42 - teste[2000001]: @item 20024
+01/05/2011 16:34:43 - teste[2000001]: @item 20025
+01/05/2011 16:49:35 - teste[2000001]: @hide
+01/05/2011 16:50:08 - teste[2000001]: @item 20008
+01/05/2011 17:05:07 - teste[2000001]: @hide
+01/05/2011 17:07:07 - teste[2000001]: @hide
+01/05/2011 17:07:20 - teste[2000001]: @reloaditemdb
+01/05/2011 17:07:50 - teste[2000001]: @item 20017
+01/05/2011 17:08:30 - teste[2000001]: @reloaditemdb
+01/05/2011 17:08:44 - teste[2000001]: @item 20016
+01/05/2011 17:08:46 - teste[2000001]: @item 20017
+01/05/2011 17:10:08 - teste[2000001]: @item 7339,
+01/05/2011 17:11:12 - teste[2000001]: @reloaditemdb
+01/05/2011 17:11:36 - teste[2000001]: @reloaditemdb
+01/05/2011 17:12:05 - teste[2000001]: @cash 100
+01/05/2011 17:12:08 - teste[2000001]: @cash 1000
+01/05/2011 17:14:50 - teste[2000001]: @hide
+01/05/2011 17:16:06 - teste[2000001]: @idsearch lhz
+01/05/2011 17:16:08 - teste[2000001]: @idsearch lig
+01/05/2011 17:16:12 - teste[2000001]: @idsearch ligh
+01/05/2011 17:16:21 - teste[2000001]: @idsearch passe
+01/05/2011 17:16:25 - teste[2000001]: @item 7350
+01/05/2011 17:19:38 - teste[2000001]: @hide
+01/05/2011 17:19:51 - teste[2000001]: @item 18200
+01/05/2011 17:19:59 - teste[2000001]: @warp sec_in01,169,173
+01/05/2011 17:19:59 - teste[2000001]: @item 18200
+01/05/2011 17:20:19 - teste[2000001]: @warp salavip
+01/05/2011 17:21:13 - teste[2000001]: @reloaditemdb
+01/05/2011 17:21:18 - teste[2000001]: @item 18200
+01/05/2011 17:21:20 - teste[2000001]: @warp salavip,14,119
+01/05/2011 17:21:20 - teste[2000001]: @item 18200
+01/05/2011 17:44:21 - teste[2000001]: @hide
+01/05/2011 17:51:08 - teste[2000001]: @hide
+01/05/2011 18:20:58 - teste[2000001]: @hide
+01/05/2011 18:25:45 - UDHAUSDHASDHD[2000001]: @hide
+01/05/2011 18:25:48 - UDHAUSDHASDHD[2000001]: @lvup 99
+01/05/2011 18:25:52 - UDHAUSDHASDHD[2000001]: @job 4013
+01/05/2011 18:25:57 - UDHAUSDHASDHD[2000001]: @joblvup 99
+01/05/2011 18:26:04 - UDHAUSDHASDHD[2000001]: @guild uhDHSA
+01/05/2011 18:26:10 - UDHAUSDHASDHD[2000001]: @guildlvup 99
+01/05/2011 18:26:14 - UDHAUSDHASDHD[2000001]: @idsearch toad
+01/05/2011 18:26:17 - UDHAUSDHASDHD[2000001]: @item 200008
+01/05/2011 18:26:19 - UDHAUSDHASDHD[2000001]: @item 20008
+01/05/2011 18:26:22 - UDHAUSDHASDHD[2000001]: @idsearch brow
+01/05/2011 18:26:29 - UDHAUSDHASDHD[2000001]: @item 20009
+01/05/2011 18:26:33 - UDHAUSDHASDHD[2000001]: @item 20017
+01/05/2011 18:26:47 - UDHAUSDHASDHD[2000001]: @heal
+01/05/2011 18:27:15 - UDHAUSDHASDHD[2000001]: @agitstart
+01/05/2011 18:27:16 - UDHAUSDHASDHD[2000001]: @warp prtg_cas01
+01/05/2011 18:27:22 - UDHAUSDHASDHD[2000001]: @warp prtg_cas01
+01/05/2011 18:27:24 - UDHAUSDHASDHD[2000001]: @warp prtg_cas01
+01/05/2011 18:27:24 - UDHAUSDHASDHD[2000001]: @warp prtg_cas01
+01/05/2011 18:27:25 - UDHAUSDHASDHD[2000001]: @warp prtg_cas01
+01/05/2011 18:27:26 - UDHAUSDHASDHD[2000001]: @warp prtg_cas01
+01/05/2011 18:27:30 - UDHAUSDHASDHD[2000001]: @str 99999
+01/05/2011 18:27:33 - UDHAUSDHASDHD[2000001]: @agi 9999
+01/05/2011 18:27:36 - UDHAUSDHASDHD[2000001]: @dex 999
+01/05/2011 18:27:37 - UDHAUSDHASDHD[2000001]: @speed 1
+01/05/2011 18:31:01 - UDHAUSDHASDHD[2000001]: @agitend
+01/05/2011 18:35:20 - teste[2000001]: @hide
+01/05/2011 18:35:21 - teste[2000001]: @warp salavip,14,119
+01/05/2011 18:35:21 - teste[2000001]: @item 18200
+01/05/2011 18:40:52 - teste[2000001]: @loadnpc npc/seventeen/mercado.txt
+01/05/2011 18:43:38 - teste[2000001]: @reloadscript
+01/05/2011 18:44:23 - teste[2000001]: @reloadscript
+01/05/2011 18:45:59 - teste[2000001]: @idsearch mastela
+01/05/2011 18:46:14 - teste[2000001]: @idsearch erva
+01/05/2011 18:46:28 - teste[2000001]: @idsearch poção
+01/05/2011 18:46:45 - teste[2000001]: @idsearch gema
+01/05/2011 18:50:53 - teste[2000001]: @reloadscript
+01/05/2011 19:47:29 - teste[2000001]: @hide
+01/05/2011 19:48:41 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:49:22 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:50:25 - teste[2000001]: @reloadmobdb
+01/05/2011 19:50:27 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:51:26 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:51:39 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:51:52 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:53:06 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:54:18 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:57:16 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:59:30 - teste[2000001]: @reloadbattleconf
+01/05/2011 19:59:48 - teste[2000001]: @reloadbattleconf
+01/05/2011 20:00:10 - teste[2000001]: @reloadbattleconf
+01/06/2011 12:17:25 - teste[2000001]: @reloadscript
+01/06/2011 12:18:25 - teste[2000001]: @reloadscript
+01/06/2011 12:21:29 - teste[2000001]: @idsearch vazia
+01/06/2011 12:21:41 - teste[2000001]: @item 1751
+01/06/2011 12:21:43 - teste[2000001]: @item 1752
+01/06/2011 12:21:44 - teste[2000001]: @item 1753
+01/06/2011 12:21:45 - teste[2000001]: @item 1754
+01/06/2011 12:21:46 - teste[2000001]: @item 1755
+01/06/2011 12:21:47 - teste[2000001]: @item 1756
+01/06/2011 12:21:48 - teste[2000001]: @item 17587
+01/06/2011 12:21:50 - teste[2000001]: @item 1757
+01/06/2011 12:21:52 - teste[2000001]: @item 1758
+01/06/2011 12:21:53 - teste[2000001]: @item 1759
+01/06/2011 12:21:56 - teste[2000001]: @item 1760
+01/06/2011 12:21:59 - teste[2000001]: @item 1757
+01/06/2011 12:22:02 - teste[2000001]: @item 1758
+01/06/2011 12:23:12 - teste[2000001]: @item 1760
+01/06/2011 12:23:13 - teste[2000001]: @item 1761
+01/06/2011 12:23:15 - teste[2000001]: @item 1762
+01/06/2011 12:23:16 - teste[2000001]: @item 1763
+01/06/2011 12:23:17 - teste[2000001]: @item 1764
+01/06/2011 12:23:20 - teste[2000001]: @item 1765
+01/06/2011 12:24:57 - teste[2000001]: @item 1765
+01/06/2011 12:25:00 - teste[2000001]: @item 1766
+01/06/2011 12:25:02 - teste[2000001]: @item 1767
+01/06/2011 12:25:04 - teste[2000001]: @item 1768
+01/06/2011 12:25:35 - teste[2000001]: @reloadscript
+01/06/2011 12:26:23 - teste[2000001]: @reloadscript
+01/06/2011 12:28:24 - teste[2000001]: @reloadscript
+01/06/2011 13:17:01 - teste[2000001]: @loadnpc npc/seventeen/encantador.txt
+01/06/2011 13:18:13 - teste[2000001]: @reloadscript
+01/06/2011 13:19:26 - teste[2000001]: /kick Encantador (58)
+01/06/2011 13:19:28 - teste[2000001]: @loadnpc npc/seventeen/encantador.txt
+01/06/2011 13:19:55 - teste[2000001]: @zeny 10000000000
+01/06/2011 13:20:47 - teste[2000001]: /kick Encantador (58)
+01/06/2011 13:20:47 - teste[2000001]: @warp quiz_02 235 342
+01/06/2011 13:20:53 - teste[2000001]: @warp salavip,14,119
+01/06/2011 13:20:53 - teste[2000001]: @item 18200
+01/06/2011 13:21:08 - teste[2000001]: @loadnpc npc/seventeen/encantador.txt
+01/06/2011 13:22:22 - teste[2000001]: @speed 1
+01/06/2011 13:29:42 - teste[2000001]: @reloadscript
+01/06/2011 15:13:41 - teste[2000001]: @reloadscript
+01/06/2011 15:13:59 - teste[2000001]: @warp bat_room,148,150,
+01/06/2011 15:14:21 - teste[2000001]: @speed 1
+01/08/2011 04:44:33 - teste[2000001]: @hide
+01/08/2011 04:59:53 - JEAN[2000002]: @hide
+01/08/2011 05:00:23 - teste[2000001]: /kick Build Saver (871)
+01/08/2011 05:10:45 - teste[2000001]: @warp salavip
+01/08/2011 05:10:50 - teste[2000001]: @warp salavip
+01/08/2011 05:10:51 - teste[2000001]: @warp salavip
+01/08/2011 05:11:19 - JEAN[2000002]: @hide
+01/08/2011 05:12:52 - teste[2000001]: #hide Jean
+01/08/2011 05:15:16 - JEAN[2000002]: @item boina alada
+01/08/2011 05:15:34 - JEAN[2000002]: @allskills
+01/08/2011 05:19:44 - [ADM] Jota[2000007]: @hide
+01/08/2011 05:24:06 - teste[2000001]: @kamib noob
+01/08/2011 05:24:14 - [ADM] Jota[2000007]: /b [ADM] Jota: shit
+01/08/2011 05:24:39 - [ADM] Jota[2000007]: /b [ADM] Jota: evento corra pela sua vida começara em instantes
+01/08/2011 05:24:44 - teste[2000001]: @monsterignore
+01/08/2011 05:25:03 - [ADM] Jota[2000007]: /b [ADM] Jota: 5
+01/08/2011 05:25:05 - [ADM] Jota[2000007]: /b [ADM] Jota: 4
+01/08/2011 05:25:06 - [ADM] Jota[2000007]: /b [ADM] Jota: 3
+01/08/2011 05:25:07 - [ADM] Jota[2000007]: /b [ADM] Jota: 2
+01/08/2011 05:26:03 - teste[2000001]: @kamic ^B8860B 5
+01/08/2011 05:26:10 - teste[2000001]: @kamic B8860B 5
+01/08/2011 05:26:30 - teste[2000001]: @kamic 7FFF00 3
+01/08/2011 05:27:10 - teste[2000001]: /b JotaPê éeee...
+01/08/2011 05:27:18 - [ADM] Jota[2000007]: @zeny 1000000000
+01/08/2011 05:27:18 - teste[2000001]: @kamic FF1493 GaAAAy*--*
+01/08/2011 05:27:33 - [ADM] Jota[2000007]: @alive
+01/08/2011 05:27:42 - teste[2000001]: @nuke [ADM] Jota
+01/08/2011 05:27:47 - [ADM] Jota[2000007]: @alive
+01/08/2011 05:28:17 - [ADM] Jota[2000007]: @jobchange 8
+01/08/2011 05:28:26 - teste[2000001]: @reset
+01/08/2011 05:28:30 - teste[2000001]: @str 10000
+01/08/2011 05:28:35 - teste[2000001]: @agi 10000
+01/08/2011 05:28:36 - [ADM] Jota[2000007]: @jobchange 32
+01/08/2011 05:28:39 - teste[2000001]: @dex 10000
+01/08/2011 05:28:42 - teste[2000001]: @vit 10000
+01/08/2011 05:28:45 - teste[2000001]: @luk 500
+01/08/2011 05:28:48 - teste[2000001]: @int 10000
+01/08/2011 05:28:52 - teste[2000001]: @heal
+01/08/2011 05:28:53 - [ADM] Jota[2000007]: @jobchange 4009
+01/08/2011 05:28:57 - [ADM] Jota[2000007]: @allskills
+01/08/2011 05:28:57 - teste[2000001]: @gvgon
+01/08/2011 05:29:03 - teste[2000001]: @evilclone teste
+01/08/2011 05:29:10 - teste[2000001]: /b teste: RIAIRIARIAIRAIR
+01/08/2011 05:29:18 - teste[2000001]: /b teste: HUDHUSAUHDUHSADHSADUSAD
+01/08/2011 05:29:21 - [ADM] Jota[2000007]: @allstats
+01/08/2011 05:29:27 - [ADM] Jota[2000007]: @heal
+01/08/2011 05:29:39 - [ADM] Jota[2000007]: @hide
+01/08/2011 05:29:50 - teste[2000001]: #hide [ADM] Jota
+01/08/2011 05:29:55 - teste[2000001]: /b teste: kkkkkk'
+01/08/2011 05:29:57 - [ADM] Jota[2000007]: @heal
+01/08/2011 05:30:05 - [ADM] Jota[2000007]: @save
+01/08/2011 05:30:25 - [ADM] Jota[2000007]: @heal
+01/08/2011 05:30:29 - [ADM] Jota[2000007]: @hide
+01/08/2011 05:30:34 - teste[2000001]: /b teste: HUHASHEUSHD082uy0-8hnsdasd1as35e7+218
+01/08/2011 05:30:46 - [ADM] Jota[2000007]: @hide
+01/08/2011 05:30:50 - [ADM] Jota[2000007]: @hide
+01/08/2011 05:30:52 - teste[2000001]: /b teste: da @speed 1
+01/08/2011 05:30:52 - [ADM] Jota[2000007]: @heal
+01/08/2011 05:30:55 - teste[2000001]: /b teste: (y'
+01/08/2011 05:31:04 - [ADM] Jota[2000007]: @speed 1
+01/08/2011 05:31:05 - teste[2000001]: @recall [ADM] jota
+01/08/2011 05:31:15 - [ADM] Jota[2000007]: @speed 2
+01/08/2011 05:31:20 - teste[2000001]: #hide [ADM] Jota
+01/08/2011 05:31:22 - [ADM] Jota[2000007]: @speed 0
+01/08/2011 05:31:25 - teste[2000001]: @speed 1
+01/08/2011 05:31:44 - [ADM] Jota[2000007]: @monsterignore
+01/08/2011 05:31:51 - teste[2000001]: @evilclone teste
+01/08/2011 05:31:54 - teste[2000001]: @clone teste
+01/08/2011 05:32:03 - teste[2000001]: @clone teste
+01/08/2011 05:32:08 - teste[2000001]: @evilclone teste
+01/08/2011 05:32:08 - teste[2000001]: @evilclone teste
+01/08/2011 05:32:16 - teste[2000001]: @clone teste
+01/08/2011 05:32:18 - teste[2000001]: @clone teste
+01/08/2011 05:32:48 - teste[2000001]: @gvgoff
+01/08/2011 05:35:48 - [ADM] Jota[2000007]: @kill teste
+01/08/2011 05:36:33 - teste[2000001]: @alive
+01/08/2011 05:36:56 - [ADM] Jota[2000007]: @alive teste
+01/08/2011 05:41:49 - [ADM] Jota[2000007]: @monster 1765
+01/08/2011 05:42:00 - [ADM] Jota[2000007]: /kick Valquíria (1765)
+01/08/2011 05:42:51 - [ADM] Jota[2000007]: @monster poring
+01/08/2011 05:43:04 - [ADM] Jota[2000007]: @monster poring
+01/08/2011 05:43:09 - [ADM] Jota[2000007]: @monster poring
+01/08/2011 05:43:10 - [ADM] Jota[2000007]: @monster poring
+01/08/2011 05:44:04 - [ADM] Jota[2000007]: @joblvl 70 AxlyN Moba o JP
+01/08/2011 05:51:43 - [ADM] Jota[2000007]: @night
+01/08/2011 05:52:13 - [ADM] Jota[2000007]: @kill axlyn
+01/08/2011 05:52:45 - [ADM] Jota[2000007]: @item gema azul
+01/08/2011 05:53:38 - [ADM] Jota[2000007]: @heal
+01/08/2011 05:58:02 - [ADM] Jota[2000007]: @doom
+01/08/2011 06:00:10 - [ADM] Jota[2000007]: @monster poporing
+01/08/2011 06:00:17 - [ADM] Jota[2000007]: @monster poring
+01/08/2011 06:00:22 - [ADM] Jota[2000007]: @monster mastering
+01/08/2011 06:01:07 - [ADM] Jota[2000007]: @item gema_azul
+01/08/2011 06:01:18 - [ADM] Jota[2000007]: @item boina_alada
+01/08/2011 06:02:19 - [ADM] Jota[2000007]: @recall axlyn
+01/08/2011 06:06:20 - [ADM] Jota[2000007]: #alive teste
+01/08/2011 06:06:28 - [ADM] Jota[2000007]: @kill axlyn
+01/08/2011 06:06:32 - [ADM] Jota[2000007]: #alive axlyn
+01/08/2011 06:12:52 - [ADM] Jota[2000007]: @doom
+01/08/2011 06:13:21 - [ADM] Jota[2000007]: @alive axltn
+01/08/2011 06:13:22 - [ADM] Jota[2000007]: @alive axlyn
+01/08/2011 06:13:30 - [ADM] Jota[2000007]: #alive axlyn
+01/08/2011 06:14:37 - [ADM] Jota[2000007]: #zeny axlyn 10000
+01/08/2011 06:15:07 - [ADM] Jota[2000007]: #allstats axlyn 99
+01/08/2011 06:15:36 - [ADM] Jota[2000007]: #job axlyn 42
+01/08/2011 06:15:46 - [ADM] Jota[2000007]: #job axlyn 4017
+01/08/2011 06:16:08 - [ADM] Jota[2000007]: #allstats axlyn 99
+01/08/2011 06:16:15 - [ADM] Jota[2000007]: #job axlyn 70
+01/08/2011 06:16:26 - [ADM] Jota[2000007]: #joblvl axlyn 70
+01/08/2011 06:16:37 - [ADM] Jota[2000007]: #allskills axlyn
+01/08/2011 06:17:18 - [ADM] Jota[2000007]: #allstats axlyn 99
+01/08/2011 06:18:21 - [ADM] Jota[2000007]: #lvup axlyn 99
+01/08/2011 06:19:59 - [ADM] Jota[2000007]: #hairstyle axlyn 16
+01/08/2011 06:20:04 - [ADM] Jota[2000007]: #hairstyle axlyn 10
+01/08/2011 06:20:06 - [ADM] Jota[2000007]: #hairstyle axlyn 11
+01/08/2011 06:20:07 - [ADM] Jota[2000007]: #hairstyle axlyn 12
+01/08/2011 06:20:08 - [ADM] Jota[2000007]: #hairstyle axlyn 13
+01/08/2011 06:20:09 - [ADM] Jota[2000007]: #hairstyle axlyn 14
+01/08/2011 06:20:11 - [ADM] Jota[2000007]: #hairstyle axlyn 15
+01/08/2011 06:20:12 - [ADM] Jota[2000007]: #hairstyle axlyn 16
+01/08/2011 06:20:14 - [ADM] Jota[2000007]: #hairstyle axlyn 15
+01/08/2011 06:20:56 - [ADM] Jota[2000007]: @pvpon
+01/08/2011 06:21:25 - [ADM] Jota[2000007]: #alive teste
+01/08/2011 06:21:46 - [ADM] Jota[2000007]: #kill teste
+01/08/2011 06:21:50 - [ADM] Jota[2000007]: @kill teste
+01/08/2011 06:22:54 - [ADM] Jota[2000007]: @monster morroc ferido
+01/08/2011 06:23:04 - [ADM] Jota[2000007]: @monster 1917
+01/08/2011 06:23:14 - [ADM] Jota[2000007]: @kill monster
+01/08/2011 06:23:26 - [ADM] Jota[2000007]: /kick Sombra da Inveja (1922)
+01/08/2011 06:23:37 - [ADM] Jota[2000007]: /kick Morroc Ferido (1917)
+01/08/2011 06:23:54 - [ADM] Jota[2000007]: @item 40 lupa
+01/08/2011 06:24:00 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:24:04 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:24:07 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:24:07 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:24:25 - [ADM] Jota[2000007]: @monster 1751
+01/08/2011 06:25:04 - [ADM] Jota[2000007]: #alive axlyn
+01/08/2011 06:25:26 - [ADM] Jota[2000007]: #alive axlyn
+01/08/2011 06:25:32 - [ADM] Jota[2000007]: /kick Valquíria (1765)
+01/08/2011 06:25:34 - [ADM] Jota[2000007]: /kick Valquíria (1765)
+01/08/2011 06:25:36 - [ADM] Jota[2000007]: /kick Valquíria (1765)
+01/08/2011 06:25:37 - [ADM] Jota[2000007]: /kick Valquíria Randgris (1751)
+01/08/2011 06:26:21 - [ADM] Jota[2000007]: @monster 1874
+01/08/2011 06:26:24 - [ADM] Jota[2000007]: /kick Belzebu (1874)
+01/08/2011 06:26:40 - [ADM] Jota[2000007]: @monster 2022
+01/08/2011 06:26:43 - [ADM] Jota[2000007]: /kick Sombra de Nidhogg (2022)
+01/08/2011 06:26:57 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:26:58 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:27:09 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:27:10 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:27:13 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:27:13 - [ADM] Jota[2000007]: @item lupa
+01/08/2011 06:27:40 - [ADM] Jota[2000007]: @str 600
+01/08/2011 06:27:48 - [ADM] Jota[2000007]: @agi 600
+01/08/2011 06:27:53 - [ADM] Jota[2000007]: @vit 600
+01/08/2011 06:27:56 - [ADM] Jota[2000007]: @dex 600
+01/08/2011 06:28:05 - [ADM] Jota[2000007]: #agi axlyn 700
+01/08/2011 06:28:13 - [ADM] Jota[2000007]: #str axlyn 700
+01/08/2011 06:28:19 - [ADM] Jota[2000007]: #vit axlyn 700
+01/08/2011 06:28:32 - [ADM] Jota[2000007]: #dex axlyn 700
+01/08/2011 06:28:48 - [ADM] Jota[2000007]: #int axlyn 700
+01/08/2011 06:28:53 - [ADM] Jota[2000007]: #luk axlyn 600
+01/08/2011 06:29:05 - [ADM] Jota[2000007]: @monster 1751
+01/08/2011 06:30:44 - [ADM] Jota[2000007]: @luk 800
+01/08/2011 06:31:41 - [ADM] Jota[2000007]: @warp prontera 214 231
+01/08/2011 06:31:48 - [ADM] Jota[2000007]: @warp prontera 208 66
+01/08/2011 06:31:59 - [ADM] Jota[2000007]: @warp prontera 256 208
+01/08/2011 06:32:18 - [ADM] Jota[2000007]: #alive axlyn
+01/08/2011 06:33:55 - [ADM] Jota[2000007]: @hide
+01/08/2011 06:34:20 - [ADM] Jota[2000007]: @pvpoff
+01/08/2011 06:34:59 - [ADM] Jota[2000007]: @vit 1000
+01/08/2011 06:35:03 - [ADM] Jota[2000007]: @vit 10000
+01/08/2011 06:35:17 - [ADM] Jota[2000007]: @vit 50000
+01/08/2011 06:35:34 - [ADM] Jota[2000007]: @str 50000
+01/08/2011 06:36:54 - [ADM] Jota[2000007]: @dex 500000
+01/08/2011 06:37:02 - [ADM] Jota[2000007]: @int 500000
+01/08/2011 06:37:38 - [ADM] Jota[2000007]: @item gema_azul 100
+01/08/2011 06:37:48 - [ADM] Jota[2000007]: @item gema_azul 100
+01/08/2011 06:37:59 - [ADM] Jota[2000007]: @item gema_azul 800
+01/08/2011 06:38:10 - [ADM] Jota[2000007]: @item gema_amarela 1000
+01/08/2011 06:38:17 - [ADM] Jota[2000007]: @item gema_vermelha 1000
+01/08/2011 06:38:26 - [ADM] Jota[2000007]: @item agua_benta 1000
+01/08/2011 06:38:46 - [ADM] Jota[2000007]: @refine
+01/08/2011 06:39:09 - [ADM] Jota[2000007]: @refine 6+10
+01/08/2011 06:39:29 - [ADM] Jota[2000007]: @refine 5+10
+01/08/2011 06:39:44 - [ADM] Jota[2000007]: @refine 4+10
+01/08/2011 06:40:12 - [ADM] Jota[2000007]: @refine 256+10
+01/08/2011 06:40:24 - [ADM] Jota[2000007]: @item antique_pipe
+01/08/2011 06:40:28 - [ADM] Jota[2000007]: @item rubor
+01/08/2011 06:40:34 - [ADM] Jota[2000007]: @item rubor_de_batalha
+01/08/2011 06:41:06 - [ADM] Jota[2000007]: @agi 99
+01/08/2011 06:41:14 - [ADM] Jota[2000007]: @agi 99
+01/08/2011 06:41:19 - [ADM] Jota[2000007]: @agi 99
+01/08/2011 06:45:45 - [ADM] Jota[2000007]: @monster 20 1751
+01/08/2011 06:46:14 - [ADM] Jota[2000007]: @monster poring 50
+01/08/2011 06:46:26 - [ADM] Jota[2000007]: @doom
+01/08/2011 06:46:34 - [ADM] Jota[2000007]: @killmonster
+01/08/2011 06:47:40 - [ADM] Jota[2000007]: #alive teste
+01/08/2011 06:48:49 - [ADM] Jota[2000007]: @warp odin_tem03
+01/08/2011 06:49:06 - [ADM] Jota[2000007]: @warp odin_tem03 308 268
+01/08/2011 06:49:42 - [ADM] Jota[2000007]: @alive
+01/08/2011 06:50:04 - [ADM] Jota[2000007]: @item valk_ellm
+01/08/2011 06:50:07 - [ADM] Jota[2000007]: @item valk_elm
+01/08/2011 06:50:10 - [ADM] Jota[2000007]: @item valk_helm
+01/08/2011 06:50:18 - [ADM] Jota[2000007]: @item lupa 100
+01/08/2011 06:50:44 - [ADM] Jota[2000007]: @item carta ferus_verde
+01/08/2011 06:50:50 - [ADM] Jota[2000007]: @item carta_ferus_verde
+01/08/2011 06:51:10 - [ADM] Jota[2000007]: @item carta_sapo_de_thara
+01/08/2011 06:51:36 - [ADM] Jota[2000007]: @warp odin_tem03 269 303
+01/08/2011 06:51:59 - [ADM] Jota[2000007]: @item carta_raydric
+01/08/2011 06:52:57 - [ADM] Jota[2000007]: @refine 0+10
+01/08/2011 06:53:19 - [ADM] Jota[2000007]: @alive
+01/08/2011 06:59:30 - [ADM] Jota[2000007]: @monster mimico
+01/08/2011 06:59:35 - [ADM] Jota[2000007]: @monster mímico
+01/08/2011 06:59:41 - [ADM] Jota[2000007]: @monster mímico
+01/08/2011 06:59:50 - [ADM] Jota[2000007]: @item Emperium
+01/08/2011 07:00:04 - [ADM] Jota[2000007]: @guild "Secso D0rgas Pvp Woe
+01/08/2011 07:00:11 - [ADM] Jota[2000007]: @guild "SDPW
+01/08/2011 07:00:18 - [ADM] Jota[2000007]: @guild SDPW
+01/08/2011 07:01:14 - [ADM] Jota[2000007]: /b [ADM] Jota: boa tarde galera
+01/08/2011 07:01:23 - [ADM] Jota[2000007]: @hide
+01/08/2011 07:01:43 - [ADM] Jota[2000007]: /b [ADM] Jota: daqui a pouco estarei realizando um evento.
+01/08/2011 07:01:58 - [ADM] Jota[2000007]: /b [ADM] Jota: estejam preparados.
+01/08/2011 07:02:13 - [ADM] Jota[2000007]: /b [ADM] Jota: começara daqui uns minutos.
+01/08/2011 07:02:39 - [ADM] Jota[2000007]: /b [ADM] Jota: Nome do evento é, " corra pela sua vida ".
+01/08/2011 07:02:54 - [ADM] Jota[2000007]: @hide
+01/08/2011 07:05:16 - [ADM] Jota[2000007]: @clone
+01/08/2011 07:05:21 - [ADM] Jota[2000007]: @clone teste
+01/08/2011 07:05:33 - [ADM] Jota[2000007]: @kill
+01/08/2011 07:05:46 - [ADM] Jota[2000007]: @doom
+01/08/2011 07:05:53 - [ADM] Jota[2000007]: @kill teste
+01/08/2011 07:06:08 - [ADM] Jota[2000007]: @slaveclone
+01/08/2011 07:06:11 - [ADM] Jota[2000007]: @slaveclone teste
+01/08/2011 07:06:33 - [ADM] Jota[2000007]: /kick teste (4016)
+01/08/2011 07:08:04 - [ADM] Jota[2000007]: @statall
+01/08/2011 07:10:18 - [ADM] Jota[2000007]: @job
+01/08/2011 07:10:50 - [ADM] Jota[2000007]: @jobchange 4016
+01/08/2011 07:11:02 - [ADM] Jota[2000007]: @job 70
+01/08/2011 07:11:08 - [ADM] Jota[2000007]: @joblvl 70
+01/08/2011 07:11:12 - [ADM] Jota[2000007]: @allskills
+01/08/2011 07:12:40 - [ADM] Jota[2000007]: @dex 150
+01/08/2011 07:12:55 - [ADM] Jota[2000007]: @allstats
+01/08/2011 07:12:58 - [ADM] Jota[2000007]: @dex 50
+01/08/2011 07:13:05 - [ADM] Jota[2000007]: @allstats
+01/08/2011 07:13:09 - [ADM] Jota[2000007]: @dex 20
+01/08/2011 07:13:12 - [ADM] Jota[2000007]: /kick teste (4016)
+01/08/2011 07:13:24 - [ADM] Jota[2000007]: @dex 5
+01/08/2011 07:13:54 - [ADM] Jota[2000007]: #alive teste
+01/08/2011 07:14:03 - [ADM] Jota[2000007]: @doom
+01/08/2011 07:18:28 - [ADM] Jota[2000007]: @hide
+01/08/2011 07:19:10 - [ADM] Jota[2000007]: @hide
+01/08/2011 07:19:49 - [ADM] Jota[2000007]: @hide
+01/08/2011 07:19:52 - [ADM] Jota[2000007]: @hide
+01/08/2011 07:19:57 - [ADM] Jota[2000007]: @hide
+01/08/2011 13:47:21 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 13:47:59 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 13:48:15 - UDHAUSDHASDHD[2000001]: @monster poring
+01/08/2011 13:48:24 - UDHAUSDHASDHD[2000001]: @allskill
+01/08/2011 13:48:38 - UDHAUSDHASDHD[2000001]: @job 4013
+01/08/2011 13:48:44 - UDHAUSDHASDHD[2000001]: @job 4014
+01/08/2011 13:48:44 - UDHAUSDHASDHD[2000001]: @job
+01/08/2011 13:48:55 - UDHAUSDHASDHD[2000001]: @job 4011
+01/08/2011 13:49:05 - UDHAUSDHASDHD[2000001]: @job 4013
+01/08/2011 13:49:10 - UDHAUSDHASDHD[2000001]: @job 4019
+01/08/2011 13:49:20 - UDHAUSDHASDHD[2000001]: @speed 1
+01/08/2011 13:49:37 - UDHAUSDHASDHD[2000001]: @job 4045
+01/08/2011 13:49:55 - UDHAUSDHASDHD[2000001]: @job 4029
+01/08/2011 13:50:00 - UDHAUSDHASDHD[2000001]: @job 4009
+01/08/2011 13:50:10 - UDHAUSDHASDHD[2000001]: @job 401
+01/08/2011 13:50:12 - UDHAUSDHASDHD[2000001]: @job 4015
+01/08/2011 14:01:51 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 14:01:55 - UDHAUSDHASDHD[2000001]: @item 20030
+01/08/2011 14:01:58 - UDHAUSDHASDHD[2000001]: @item 200030
+01/08/2011 14:02:03 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 14:02:03 - UDHAUSDHASDHD[2000001]: @item 200030
+01/08/2011 14:02:05 - UDHAUSDHASDHD[2000001]: @item 20030
+01/08/2011 14:03:31 - UDHAUSDHASDHD[2000001]: @item 20030
+01/08/2011 14:04:59 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 14:12:51 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 14:12:56 - UDHAUSDHASDHD[2000001]: @item 20027
+01/08/2011 14:12:59 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 14:13:10 - UDHAUSDHASDHD[2000001]: @warp sec_in01 171 176
+01/08/2011 14:13:24 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 14:17:57 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 14:18:07 - UDHAUSDHASDHD[2000001]: @job 4012
+01/08/2011 14:18:09 - UDHAUSDHASDHD[2000001]: @job 4013
+01/08/2011 14:18:13 - UDHAUSDHASDHD[2000001]: @job 4014
+01/08/2011 14:19:05 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 14:19:12 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 14:19:45 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 14:19:53 - UDHAUSDHASDHD[2000001]: @item 200026
+01/08/2011 14:19:55 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 14:58:36 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 14:58:42 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:17:20 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 15:18:26 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 15:19:01 - UDHAUSDHASDHD[2000001]: @job
+01/08/2011 15:19:07 - UDHAUSDHASDHD[2000001]: @job 4009
+01/08/2011 15:19:31 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:19:52 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:19:54 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:19:56 - UDHAUSDHASDHD[2000001]: @item 200026
+01/08/2011 15:20:00 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:20:05 - UDHAUSDHASDHD[2000001]: @item 20027
+01/08/2011 15:20:05 - UDHAUSDHASDHD[2000001]: @item 20025
+01/08/2011 15:20:05 - UDHAUSDHASDHD[2000001]: @item 200025
+01/08/2011 15:20:09 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:20:29 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:20:32 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:20:33 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:21:00 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:21:03 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:22:49 - UDHAUSDHASDHD[2000001]: @hide
+01/08/2011 15:23:23 - UDHAUSDHASDHD[2000001]: @ccolor 400
+01/08/2011 15:23:26 - UDHAUSDHASDHD[2000001]: @ccolor 12
+01/08/2011 15:23:27 - UDHAUSDHASDHD[2000001]: @ccolor 2
+01/08/2011 15:23:28 - UDHAUSDHASDHD[2000001]: @ccolor 3
+01/08/2011 15:25:33 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:25:40 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:34:46 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:35:30 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:35:34 - UDHAUSDHASDHD[2000001]: @item 20026
+01/08/2011 15:37:39 - UDHAUSDHASDHD[2000001]: @reloaditemdb
+01/08/2011 15:38:07 - UDHAUSDHASDHD[2000001]: @joblvup 99
+10/31/2012 01:27:50 - Holdur[2000000]: @reloaditemdb
+10/31/2012 01:30:36 - Holdur[2000000]: @reloaditemdb
+10/31/2012 01:31:16 - Holdur[2000000]: @item 1201
+10/31/2012 01:31:19 - Holdur[2000000]: @item 5171
+10/31/2012 01:31:27 - Holdur[2000000]: @job 4112
+10/31/2012 01:31:29 - Holdur[2000000]: @job 4012
+10/31/2012 01:31:31 - Holdur[2000000]: @job 4014
+10/31/2012 01:31:33 - Holdur[2000000]: @job 4013
+10/31/2012 01:31:34 - Holdur[2000000]: @job 4015
+10/31/2012 01:31:36 - Holdur[2000000]: @job 4016
+10/31/2012 01:31:38 - Holdur[2000000]: @job 4018
+10/31/2012 01:31:39 - Holdur[2000000]: @job 4017
+10/31/2012 01:31:41 - Holdur[2000000]: @job 4016
+10/31/2012 01:31:43 - Holdur[2000000]: @job 4020
+10/31/2012 01:31:44 - Holdur[2000000]: @job 4021
+10/31/2012 01:31:46 - Holdur[2000000]: @job 4019
+10/31/2012 01:31:48 - Holdur[2000000]: @job 4018
+10/31/2012 01:31:50 - Holdur[2000000]: @job 4010
+10/31/2012 01:31:51 - Holdur[2000000]: @job 4012
+10/31/2012 01:31:53 - Holdur[2000000]: @job 4009
+10/31/2012 01:31:59 - Holdur[2000000]: @LVUP 80
+10/31/2012 01:32:11 - Holdur[2000000]: @item 5800
+10/31/2012 01:32:19 - Holdur[2000000]: @item 5801
+10/31/2012 01:32:30 - Holdur[2000000]: @heal
+10/31/2012 01:32:32 - Holdur[2000000]: @allskill
+10/31/2012 01:33:12 - Holdur[2000000]: @idsearch game_master
+10/31/2012 01:33:15 - Holdur[2000000]: @idsearch gm
+10/31/2012 01:33:25 - Holdur[2000000]: @idsearch game
+10/31/2012 01:33:30 - Holdur[2000000]: @item 7859
+10/31/2012 02:37:20 - Holdur[2000000]: @speed 1
+10/31/2012 02:37:38 - Holdur[2000000]: @allskill
+10/31/2012 02:37:47 - Holdur[2000000]: @job 4009
+10/31/2012 04:34:55 - Holdur[2000000]: @warp bra_dun01
+10/31/2012 04:35:01 - Holdur[2000000]: @warp bra_dun01
+10/31/2012 04:35:07 - Holdur[2000000]: @warp bra_dun02
+10/31/2012 04:35:11 - Holdur[2000000]: @monsterignore
+10/31/2012 04:35:21 - Holdur[2000000]: @speed 1
+10/31/2012 04:35:25 - Holdur[2000000]: @speed 1
+10/31/2012 04:35:57 - Holdur[2000000]: @warp man_fild02
+10/31/2012 04:36:02 - Holdur[2000000]: @warp man_fild02
+10/31/2012 04:36:21 - Holdur[2000000]: @killmonster
+10/31/2012 04:37:07 - Holdur[2000000]: @idsearch mentiroso
+10/31/2012 04:37:11 - Holdur[2000000]: @item 1741
+10/31/2012 04:37:37 - Holdur[2000000]: @vit 9999999999999
+10/31/2012 04:37:47 - Holdur[2000000]: @lvup 80

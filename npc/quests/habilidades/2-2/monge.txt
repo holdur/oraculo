@@ -1,0 +1,69 @@
+//===== Cronus Script ========================================
+//= Quest das Habilidades de Monge
+//===== Por: =================================================
+//= Lupus, Reddozen
+//===== Versão Atual: ========================================
+//= 1.0b (eA 1.3b)
+//===== Compatível Com: ======================================
+//= RO 10.2+
+//===== Descrição: ===========================================
+//= Quest para novas habilidades de 2a classe
+//===== Comentários Adicionais: ==============================
+//= 1.0 Puxado do eA, traduzido e adaptado [Endless]
+//= 1.0b Fix language, convertido à linguagem padrão [Page]
+//============================================================
+
+//============================================================
+// MONK - KI TRANSLATION + KI EXPLOSION
+//============================================================
+monk_test,316,69,3	script	Krate	823,{
+	mes "[Krate]";
+	if(BaseJob!=Job_Monk) goto L_nomonk;
+	if(getskilllv(1015) && getskilllv(1016)) goto L_alreadyhave;
+	if(monk_skill) goto L_verif;
+	if(Weight>0) goto L_heavymonk;
+	mes "Eu lhe ensinarei tudo que sei, mas você precisa trazer:";
+	mes "40 Brotos";
+	mes "3 Caules";
+	set monk_skill, 1;
+	next;
+	goto L_verif;
+	
+L_verif:
+	mes "Deixe-me checar seus itens.";
+	next;
+	if(countitem(711)<3 || countitem(905)<40) goto L_noitems;//Items: Broto, Caule,
+	delitem 711, 3;//Items: Broto,
+	delitem 905, 40;//Items: Caule,
+	next;
+	mes "[Krate]";
+	mes "Eu vejo que você tem o que precisa,";
+	mes "assim eu lhe ensinarei o meu talento.";
+	skill 1015,1,0;
+	skill 1016,1,0;
+	set monk_skill, 0;
+	close;
+	
+L_noitems:
+	mes "[Krate]";
+	mes "Você não tem todos os itens.";
+	mes "Volte quando tiver tudo";
+	mes "o que eu lhe pedi.";
+	close;
+	
+L_nomonk:
+	mes "Parece que sua alma é o contrario do seu corpo.";
+	mes "Volte quando seu corpo e sua alma estiverem com Yin e Yang.";
+	emotion e_gasp;
+	close;
+	
+L_alreadyhave:
+	mes "Eu já lhe ensinei";
+	mes "tudo o que eu sei...";
+	close;
+
+L_heavymonk:
+	mes "Volte quando você se livrar";
+	mes "de seus bens humanos.";
+	close;
+}

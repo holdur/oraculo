@@ -1,0 +1,2 @@
+//O limite de linhas agora é de 128, se você precisar de mais, precisará modificar o MOTD_LINE_SIZE no pc.c (map/pc.c)
+Bem-vindo à 'SubVersão' do Cronus! Divirta-se! Por favor, reporte os bugs que você encontrar no fórum do projeto, www.cronus-emulator.com/forum!

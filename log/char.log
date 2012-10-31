@@ -1,0 +1,91 @@
+
+22-10-2010 15:14:08: Iniciando o Servidor de Personagens...
+22-10-2010 15:14:08: Characters file not found: save/athena.txt.
+22-10-2010 15:14:08: Id for the next created character: 150000.
+22-10-2010 15:14:08: The char-server is ready (Server is listening on the port 6121).
+22-10-2010 15:14:09: WARNING: Server cannot save characters.
+
+22-10-2010 15:14:18: Iniciando o Servidor de Personagens...
+22-10-2010 15:14:18: Characters file not found: save/athena.txt.
+22-10-2010 15:14:18: Id for the next created character: 150000.
+22-10-2010 15:14:18: The char-server is ready (Server is listening on the port 6121).
+22-10-2010 15:14:19: WARNING: Server cannot save characters.
+
+22-10-2010 15:14:30: Iniciando o Servidor de Personagens...
+22-10-2010 15:14:30: mmo_char_init: No character found in save/athena.txt.
+22-10-2010 15:14:30: Id for the next created character: 150000.
+22-10-2010 15:14:30: The char-server is ready (Server is listening on the port 6121).
+22-10-2010 15:14:33: Map-Server 0 connected: 729 maps, from IP 201.75.117.118 port 5121. Map-server 0 loading complete.
+
+23-10-2010 16:50:39: Iniciando o Servidor de Personagens...
+23-10-2010 16:50:39: mmo_char_init: No character found in save/athena.txt.
+23-10-2010 16:50:39: Id for the next created character: 150000.
+23-10-2010 16:50:39: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 16:50:46: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+
+23-10-2010 16:58:28: Iniciando o Servidor de Personagens...
+23-10-2010 16:58:28: mmo_char_init: No character found in save/athena.txt.
+23-10-2010 16:58:28: Id for the next created character: 150000.
+23-10-2010 16:58:28: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 16:58:35: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+
+23-10-2010 17:17:06: Iniciando o Servidor de Personagens...
+23-10-2010 17:17:06: mmo_char_init: No character found in save/athena.txt.
+23-10-2010 17:17:06: Id for the next created character: 150000.
+23-10-2010 17:17:06: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:17:09: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+
+23-10-2010 17:17:37: Iniciando o Servidor de Personagens...
+23-10-2010 17:17:37: mmo_char_init: No character found in save/athena.txt.
+23-10-2010 17:17:37: Id for the next created character: 150000.
+23-10-2010 17:17:37: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:17:40: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+23-10-2010 17:18:29: make new char: account: 2000002, slot 0, name: Spike, stats: 5/5/5/5/5/5, hair: 1, hair color: 0.
+23-10-2010 17:18:30: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Spike.
+
+23-10-2010 17:19:20: Iniciando o Servidor de Personagens...
+23-10-2010 17:19:20: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2010 17:19:20: Id for the next created character: 150001.
+23-10-2010 17:19:20: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:19:24: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+23-10-2010 17:19:33: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Spike.
+
+23-10-2010 17:24:42: Iniciando o Servidor de Personagens...
+23-10-2010 17:24:42: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2010 17:24:42: Id for the next created character: 150001.
+23-10-2010 17:24:42: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:24:47: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+
+23-10-2010 17:25:42: Iniciando o Servidor de Personagens...
+23-10-2010 17:25:42: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2010 17:25:42: Id for the next created character: 150001.
+23-10-2010 17:25:42: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:25:44: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+23-10-2010 17:26:05: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Spike.
+
+23-10-2010 17:36:18: Iniciando o Servidor de Personagens...
+23-10-2010 17:36:18: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2010 17:36:18: Id for the next created character: 150001.
+23-10-2010 17:36:18: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:36:23: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+
+23-10-2010 17:54:12: Iniciando o Servidor de Personagens...
+23-10-2010 17:54:12: mmo_char_init: 1 character read in save/athena.txt.
+23-10-2010 17:54:12: Id for the next created character: 150001.
+23-10-2010 17:54:12: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:54:21: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+23-10-2010 17:54:34: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Spike.
+
+23-10-2010 17:55:40: Iniciando o Servidor de Personagens...
+23-10-2010 17:55:40: mmo_char_init: No character found in save/athena.txt.
+23-10-2010 17:55:40: Id for the next created character: 150000.
+23-10-2010 17:55:40: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:55:42: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.
+23-10-2010 17:56:01: make new char: account: 2000002, slot 0, name: Spike, stats: 5/5/5/5/5/5, hair: 1, hair color: 0.
+23-10-2010 17:56:02: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Spike.
+
+23-10-2010 17:57:42: Iniciando o Servidor de Personagens...
+23-10-2010 17:57:42: mmo_char_init: No character found in save/athena.txt.
+23-10-2010 17:57:42: Id for the next created character: 150001.
+23-10-2010 17:57:42: The char-server is ready (Server is listening on the port 6121).
+23-10-2010 17:57:44: Map-Server 0 connected: 729 maps, from IP 201.75.92.101 port 5121. Map-server 0 loading complete.

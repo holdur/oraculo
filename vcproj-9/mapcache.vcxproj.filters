@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="mapcache">
+      <UniqueIdentifier>{a2a12156-40f5-4872-8935-4724743c4bf9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\tool\grfio.c">
+      <Filter>mapcache</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\tool\mapcache.c">
+      <Filter>mapcache</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\tool\grfio.h">
+      <Filter>mapcache</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
